@@ -13,8 +13,12 @@ The libraries needed to be installed to run the script are:
 • pip install PyQt5
 
 The script can also be converted to an executable (.exe) file, by following this steps:
-• Install PyInstaller: pip install pyinstaller /n
+• Install PyInstaller: pip install pyinstaller 
+
 • Navigate to Your Script's Directory: open a terminal or command prompt and navigate to the directory containing your Python script
+
 • Run PyInstaller: pyinstaller textbud_v1.py
+
 • Locate the Executable: once PyInstaller has finished running, you can find the generated executable file in the dist directory within your script's directory
+
 • Test the Executable: you can now test the executable to ensure it works as expected. Run the executable from the command line or by double-clicking on it.
