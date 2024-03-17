@@ -1,0 +1,2 @@
+# TextBud
+Text files comparator
